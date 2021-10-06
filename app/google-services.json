@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423724741613",
+    "project_id": "ilham-iot",
+    "storage_bucket": "ilham-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423724741613:android:75835d8ca7900c2eed2de4",
+        "android_client_info": {
+          "package_name": "com.example.ilham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423724741613-m2ldqac8rp3otbu32tkk0ic6l957q1r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt_c1vMhslaT-mv_cKCuspbWe7ZohZDFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423724741613-m2ldqac8rp3otbu32tkk0ic6l957q1r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
